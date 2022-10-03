@@ -1,5 +1,5 @@
 ## US Presidents - Data Cleaning
-This is a small project done to practice some data cleaning techniques.
+This is a small project done to practice some data cleaning techniques in Excel.
 
 ### About Dataset
 The dataset has information about US Presidents – name, party, salary, etc…
