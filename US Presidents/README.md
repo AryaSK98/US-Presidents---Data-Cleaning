@@ -2,8 +2,8 @@
 This is a small project done to practice some data cleaning techniques in Excel.
 
 ### About Dataset
-The dataset has information about US Presidents – name, party, salary, etc…
-It has 9 columns, 47 rows and one header row.
+* The dataset has information about US Presidents – name, party, salary, etc…
+* It has 9 columns, 47 rows and one header row.
 
 ### The Process
 *	Created a copy of the raw data in a new worksheet called ‘Working Data’. 
